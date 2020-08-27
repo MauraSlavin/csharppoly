@@ -1,0 +1,13 @@
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\obj\Debug\netcoreapp3.1\dbcon.csprojAssemblyReference.cache
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\obj\Debug\netcoreapp3.1\dbcon.AssemblyInfoInputs.cache
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\obj\Debug\netcoreapp3.1\dbcon.AssemblyInfo.cs
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\obj\Debug\netcoreapp3.1\dbcon.csproj.CoreCompileInputs.cache
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\bin\Debug\netcoreapp3.1\dbcon.exe
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\bin\Debug\netcoreapp3.1\dbcon.deps.json
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\bin\Debug\netcoreapp3.1\dbcon.runtimeconfig.json
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\bin\Debug\netcoreapp3.1\dbcon.runtimeconfig.dev.json
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\bin\Debug\netcoreapp3.1\dbcon.dll
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\bin\Debug\netcoreapp3.1\dbcon.pdb
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\obj\Debug\netcoreapp3.1\dbcon.dll
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\obj\Debug\netcoreapp3.1\dbcon.pdb
+C:\Users\maura\udemy\CSharpIntermediate\csharppoly\dbcon\obj\Debug\netcoreapp3.1\dbcon.genruntimeconfig.cache
