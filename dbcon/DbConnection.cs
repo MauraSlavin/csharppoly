@@ -2,7 +2,7 @@ using System;
 
 namespace dbcon
 {
-    public abstract class DbConnections
+    public abstract class DbConnection
     {
         public string ConnectionString;
         public TimeSpan Timout;
@@ -11,7 +11,7 @@ namespace dbcon
         public abstract void DbClose(string connection);        
     }
 
-    public class SqlConnection : DbConnections
+    public class SqlConnection : DbConnection
     {
         public override void DbOpen(string connection)
         {
@@ -25,7 +25,7 @@ namespace dbcon
             }
             else
             {
-                Console.WriteLine("Open SQL db " + connection + ".");
+                Console.WriteLine("Open SQL db: " + connection + ".");
             }
         }
 
@@ -41,13 +41,13 @@ namespace dbcon
             }
             else
             {
-                Console.WriteLine("Close SQL db " + connection + ".");
+                Console.WriteLine("Close SQL db: " + connection + ".");
             }
         }
     }
 
 
-    public class OracleConnection : DbConnections
+    public class OracleConnection : DbConnection
     {
         public override void DbOpen(string connection)
         {
@@ -61,7 +61,7 @@ namespace dbcon
             }
             else
             {
-                Console.WriteLine("Open Oracle db " + connection + ".");
+                Console.WriteLine("Open Oracle db: " + connection + ".");
             }
         }
 
@@ -77,7 +77,7 @@ namespace dbcon
             }
             else
             {
-                Console.WriteLine("Close Oracle db " + connection + ".");
+                Console.WriteLine("Close Oracle db: " + connection + ".");
             }
         }
     }
